@@ -1,0 +1,169 @@
+/*
+      ============================================================
+           Default Color Start
+      ============================================================
+*/
+.gs-result .gs-title, .gs-result .gs-title *,
+.readmore_btn.th-cl,
+.blog-meta li a:hover,
+.readmore-btn:hover,
+.title:hover a,
+.comment-box time,
+.comment-box .comment-reply-link,
+.comment-box .comment-edit-link,
+.comments-area .logged-in-as a:hover,
+.commment_title h3 small a:hover,
+.sub-header .breadcrumb-item.active,
+.th-cl{
+  color: #ff8163;
+}
+.gs-result .gs-title, .gs-result .gs-title *{
+  color: #ff8163 !important;
+}
+/*
+      ============================================================
+           Default Background Color Start
+      ============================================================
+*/
+.btn:hover,
+.modal-backdrop.show,
+.causes-thumb .thumb,
+.blog-thumb .img-thumbnail,
+.team-thumb .img-thumbnail,
+.widget-recent-blog figure,
+.event-thumb .img-thumbnail,
+.event-thumb-2 .img-thumbnail,
+.iconiq-shop-style .img-thumb,
+.services-thumb-2:hover .icon-box,
+.newsletterform .btn,
+.about-caption .btn,
+.btn.active,
+.gsc-results .gsc-cursor-box .gsc-cursor-page:hover,
+.d-flex.tabs .btn.active,
+.charity-header .main-menu li:hover > a,
+.mean-container .mean-nav ul li:hover > a,
+.mean-container .mean-bar .meanmenu-reveal,
+.charity-header .main-menu ul.children a:hover,
+.charity-header .main-menu ul.sub-menu a:hover,
+.bg-50.th-bg-top::before,
+.event-thumb-2 .btn:hover,
+.social-share-list a:hover,
+.readmore-btn:hover::before,
+.widget_meta ul li a:before,
+.widget_pages ul li a:before,
+.desc-features ul li::before,
+.testimonial-thumb .text:hover,
+.widget_archive ul li a:before,
+.widget_nav_menu ul li a:before,
+.iconiq-list-style ul li a:hover,
+.widget_categories ul li a:before,
+.widget_recent_entries ul li a::before,
+.product-detail-tab .nav-tabs li a.active,
+.iconiq-service-style-5:hover .icon-block,
+.iconiq-pagination-style .page-link:hover,
+.product-single-caption .wishlist-btn:hover,
+.iconiq-service-style-5 .readmore_btn::before,
+.team-thumb-style-2 .team-social-list a:hover,
+.slick-dots li.slick-active button,
+.event-counter-wrap::before,
+.nav-tabs-1 li a.active,
+.nav-tabs-1 li a:after,
+#loader3,
+.th-bg
+{
+    background-color: #ff8163 !important; 
+}
+/*
+      ============================================================
+           Default Border Color Start
+      ============================================================
+*/
+.services-thumb-2:hover .icon-box,
+.counter-number,
+.testimonial-thumb .text:hover,
+.form-control:focus,
+.aside-bar .bg-widget,
+.slick-dots li button,
+.aside-bar .bg-widget::before,
+.iconiq-pagination-style .page-link:hover,
+.donation-form .tab-content
+{
+    border-color: #ff8163;
+}
+.btn.focus, .btn:focus,
+.form-control:focus{
+  box-shadow: 0 0 0 0.2rem rgba(255,129,99,.25);
+}
+/*
+      ============================================================
+           Default Transition Start
+      ============================================================
+*/
+a,
+label,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+input,
+.btn,
+.blog,
+figure,
+.title,
+.tags a,
+.title a,
+textarea,
+.slick-arrow,
+.navigation a,
+li,
+li a,
+.icon-box,
+.gsc-cursor-page,
+.flickr-gallery-thumb,
+.flickr-gallery-thumb img,
+.blog-thumb,
+.event-thumb-2,
+.team-thumb-style-2,
+.team-thumb-style-2 *,
+.blog-meta li a,
+.testimonial-thumb *,
+.btn-on-hover,
+.nav-tabs-1 li a,
+.nav-tabs-1 li a:after,
+.iconiq-shop-style .img-thumb img,
+.iconiq-service-style-5 .icon-block,
+.iconiq-service-style-5 .icon-block::after,
+.iconiq-service-style-5 .icon-block::before,
+.iconiq-service-style-5 .icon-block,
+.iconiq-service-style-5,
+.iconiq-pricing-style-4,
+.iconiq-pricing-style-4,
+.iconiq-pricing-style-4 *{
+  transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+}
+
+
+
+
+.gray-bg{
+  background-color:#f3f3f3; 
+}
+.facebook-bg{
+  background: #3b5998!important
+}
+.twitter-bg{
+  background: #00acee!important
+}
+.pinterest-bg{
+  background: #c8232c!important
+}
+.googleplus-bg{
+  background: #db4a39!important
+}
+.instagram-bg{
+  background: #3f729b!important
+}
